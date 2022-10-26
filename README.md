@@ -1,4 +1,4 @@
-# Welcome to my frist repository
+# Welcome to my first repository
 
 ## Author information
 Lieguo Yu
